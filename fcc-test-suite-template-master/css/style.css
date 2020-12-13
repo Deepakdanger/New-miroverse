@@ -53,11 +53,12 @@ body {
     font-size: 1.125rem;
     margin-bottom: 0.5rem;
   }
-  #dropdown {
-      width: 30%;
-  }
+  
   #survey-form {
-      width: 20%;
+      width: 40%;
+      display: flex;
+      justify-self: self-start;
+      padding: 20px;
   }
   
   input,
